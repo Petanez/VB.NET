@@ -1,0 +1,13 @@
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.exe
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.deps.json
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.runtimeconfig.json
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.runtimeconfig.dev.json
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.dll
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\bin\Debug\netcoreapp3.1\VBObjectOriented.pdb
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.vbprojAssemblyReference.cache
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.AssemblyInfoInputs.cache
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.AssemblyInfo.vb
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.vbproj.CoreCompileInputs.cache
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.dll
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.pdb
+C:\Users\Pete\VB.NET\VB ObjectOriented\VBObjectOriented\obj\Debug\netcoreapp3.1\VBObjectOriented.genruntimeconfig.cache

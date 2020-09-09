@@ -1,0 +1,13 @@
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.exe
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.deps.json
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.runtimeconfig.json
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.runtimeconfig.dev.json
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.dll
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\bin\Debug\netcoreapp3.1\IfStatements and looping in VB.pdb
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.vbprojAssemblyReference.cache
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.AssemblyInfoInputs.cache
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.AssemblyInfo.vb
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.vbproj.CoreCompileInputs.cache
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.dll
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.pdb
+C:\Users\Pete\VB.NET\IfStatements and looping in VB\IfStatements and looping in VB\obj\Debug\netcoreapp3.1\IfStatements and looping in VB.genruntimeconfig.cache

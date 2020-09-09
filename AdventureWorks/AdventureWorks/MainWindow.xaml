@@ -1,0 +1,44 @@
+﻿<!--You set the properties of the XAML Window object using attributes. 
+    These properties control the look and feel of the Window at runtime
+    ONLY SET THE NAME PROPERTY ON THOSE CONTROLS YOU NEED TO ACCESS IN CODE.
+    GENERALLY, YOU WON'T NEED TO NAME YOUR CONTROLS AS XAML RELIES HEVILY ON DATA BINDING
+    ALL USER CONTROLS GO INSIDE Grid Named contentArea
+    -->
+    
+    <Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdventureWorks"
+        mc:Ignorable="d"
+        Title="AdventureWorks Application" 
+        WindowStartupLocation="CenterScreen"
+        Height="450" Width="800">
+        
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Menu IsMainMenu="True">
+            <MenuItem Header="_File">
+                <MenuItem Header="E_xit"
+                          Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Products">
+                <MenuItem Header="Detail"
+                          Click="ProductDetail_Click"/>
+                <MenuItem Header="List"
+                          Click="ProductList_Click"/>
+            </MenuItem>
+            <MenuItem Header="Customers">
+                <MenuItem Header="Detail"
+                          Click="CustomerDetail_Click"/>
+            </MenuItem>
+            <Grid Grid.Row="1"
+                  Name="contentArea"
+                  Margin="10" />
+        </Menu>
+    </Grid>
+</Window>

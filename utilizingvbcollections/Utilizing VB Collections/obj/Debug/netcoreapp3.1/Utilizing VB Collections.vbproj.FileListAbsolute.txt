@@ -1,0 +1,13 @@
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.exe
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.deps.json
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.runtimeconfig.json
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.runtimeconfig.dev.json
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.dll
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\bin\Debug\netcoreapp3.1\Utilizing VB Collections.pdb
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.vbprojAssemblyReference.cache
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.AssemblyInfoInputs.cache
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.AssemblyInfo.vb
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.vbproj.CoreCompileInputs.cache
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.dll
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.pdb
+C:\Users\Pete\VB.NET\Utilizing VB Collections\Utilizing VB Collections\obj\Debug\netcoreapp3.1\Utilizing VB Collections.genruntimeconfig.cache

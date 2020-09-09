@@ -1,0 +1,17 @@
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.dll
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.pdb
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.DataLayer.xml
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\Common.Library.dll
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\Common.Library.pdb
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\bin\Debug\Common.Library.xml
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbprojAssemblyReference.cache
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.Resources.resources
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.GenerateResource.cache
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.CoreCompileInputs.cache
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.vbproj.CopyComplete
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.dll
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.xml
+C:\Users\Pete\VB.NET\AdventureWorks\AdventureWorks.DataLayer\obj\Debug\AdventureWorks.DataLayer.pdb
